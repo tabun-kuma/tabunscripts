@@ -1,11 +1,12 @@
 # tabunscripts
 自作したJavaScriptライブラリやjQueryプラグイン
 
-## [ jquery.tabuImageMap ]
+## jquery.tabuImageMap
 イメージマップの拡大・縮小時のcoords属性値をサイズに合わせて自動修正するプラグイン
+
 [イメージマップDEMO][1]
 
-## [ jquery.tabunFixedHeader ]
+## jquery.tabunFixedHeader
 3つのパターンでヘッダーを固定するラグイン
 + windowスクロールした場合にヘッダーをwindowの上部で固定する
 + ブロック要素内でヘッダーを固定する
