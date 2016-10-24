@@ -3,7 +3,7 @@
 
 ## [ jquery.tabuImageMap ]
 イメージマップの拡大・縮小時のcoords属性値をサイズに合わせて自動修正するプラグイン
-[イメージマップDEMO][[1]
+[イメージマップDEMO][1]
 
 ## [ jquery.tabunFixedHeader ]
 3つのパターンでヘッダーを固定するラグイン
