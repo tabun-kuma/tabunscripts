@@ -1,7 +1,7 @@
 # tabunscripts
 自作したJavaScriptライブラリやjQueryプラグイン
 
-## jquery.tabuImageMap
+## jquery.tabunImageMap
 イメージマップの拡大・縮小時のcoords属性値をサイズに合わせて自動修正するプラグイン
 
 [イメージマップDEMO](https://tabun-kuma.github.io/tabunImageMap/demo.html)
