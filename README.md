@@ -13,3 +13,10 @@
 * ブロック要素内でヘッダーと指定した列を固定する
 
 [ヘッダー固定DEMO](https://tabun-kuma.github.io/tabunFixedHeader/demo.html)
+
+## jquery.tabunTabIndex
+指定したブロック内でタブインデックスを自動で割り当てるプラグイン
+* Entereキーによるタブ移動に対応
+* Shift + Enter で前方向に移動
+
+[タブインデックスDEMO](https://tabun-kuma.github.io/tabunTabIndex/demo.html)
